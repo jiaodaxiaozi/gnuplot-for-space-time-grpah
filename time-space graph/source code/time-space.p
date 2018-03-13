@@ -9,4 +9,4 @@ set grid
 plot "data1.dat" using 1:2 title "Agent1" with linespoints pt 5 ps 2, \
 "data2.dat" using 1:2 title "Agent2" with linespoints pt 7 ps 2
 set key font "Times New Roman,12"
-set key left/top
+set key left top
